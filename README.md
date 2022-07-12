@@ -1,6 +1,10 @@
-Hi, I'm Frank.
+### Hi, I'm Frank
 
-Curious mind and DevOps Engineer, interested in infosec and business.
+Yet another guy who writes code. I hope the one here is useful!
+
+For more info about me, please head over [here](https://fpira.com/about).
+
+Thank you for visiting this page, have a great day!
 
 [![My website](https://img.shields.io/website?down_color=lightgrey&down_message=fpira.com&label=website&up_color=blue&up_message=fpira.com&url=https%3A%2F%2Ffpira.com)](https://fpira.com) 
 [![twitter](https://img.shields.io/badge/twitter-%40pirafrank-blue)](http://a.fpira.com/twitter) 
