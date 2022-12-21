@@ -8,10 +8,13 @@ Thank you for visiting this page, have a great day!
 
 [![My website](https://img.shields.io/website?down_color=lightgrey&down_message=fpira.com&label=website&up_color=blue&up_message=fpira.com&url=https%3A%2F%2Ffpira.com)](https://fpira.com) 
 [![twitter](https://img.shields.io/badge/twitter-%40pirafrank-blue)](http://a.fpira.com/twitter) 
+[![mastodon](https://img.shields.io/badge/mastodon-pirafrank-blue)](http://a.fpira.com/mastodon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pirafrank-blue)](http://a.fpira.com/linkedin) 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/pirafrank?logo=keybase)](http://a.fpira.com/keybase) 
 
+<!--
 ![GitHub stats card](https://github-readme-stats.vercel.app/api?username=pirafrank&show_icons=false&theme=chartreuse-dark&bg_color=22272E&title_color=539BF5)
+-->
 
 <!--
 **pirafrank/pirafrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
