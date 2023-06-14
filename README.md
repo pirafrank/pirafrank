@@ -2,7 +2,7 @@
 
 Yet another guy who writes code. I hope the one here is useful!
 
-For more info about me, please head over [here](https://fpira.com/about).
+For more info about me, or if you're curious about what I blog, you can head over to [my website](https://fpira.com).
 
 Thank you for visiting this page, have a great day!
 
@@ -12,23 +12,7 @@ Thank you for visiting this page, have a great day!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pirafrank-blue)](http://a.fpira.com/linkedin) 
 [![Keybase PGP](https://img.shields.io/keybase/pgp/pirafrank?logo=keybase)](http://a.fpira.com/keybase) 
 [![nostr](https://img.shields.io/badge/nostr-pirafrank@fpira.com-blue)](https://fpira.com/nostr)
-[![pirafrank.eth](https://img.shields.io/badge/ens-pirafrank.eth-blue)](https://api.qrserver.com/v1/create-qr-code/?size=512x512&data=pirafrank.eth)
 
 <!--
 ![GitHub stats card](https://github-readme-stats.vercel.app/api?username=pirafrank&show_icons=false&theme=chartreuse-dark&bg_color=22272E&title_color=539BF5)
--->
-
-<!--
-**pirafrank/pirafrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
