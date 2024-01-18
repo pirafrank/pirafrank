@@ -2,7 +2,7 @@
 
 Yet another guy who writes code. I hope the one here is useful!
 
-For more info about me, or if you're curious about what I blog, you can head over to [my website](https://fpira.com).
+For more info about me, or if you're curious about what I blog, you can head over to [here](https://bento.me/pirafrank).
 
 Thank you for visiting this page, have a great day!
 
