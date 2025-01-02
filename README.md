@@ -9,8 +9,7 @@ To know about my other social profiles, check them [here](https://bento.me/piraf
 Thank you for visiting this page, have a great day!
 
 [![Blog RSS](https://img.shields.io/badge/Blog%20feed-RSS-blue)](https://fpira.com/feed.xml)
-[![mastodon](https://img.shields.io/badge/mastodon-pirafrank-blue)](http://a.fpira.com/mastodon)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pirafrank-blue)](http://a.fpira.com/linkedin)
+[![All Links](https://img.shields.io/badge/All%20links-bento.me%2Fpirafrank-blue)](http://bento.me/pirafrank)
 [![Keybase PGP](https://img.shields.io/keybase/pgp/pirafrank?logo=keybase)](http://a.fpira.com/keybase)
 [![nostr](https://img.shields.io/badge/nostr-pirafrank@fpira.com-blue)](https://fpira.com/nostr)
 
