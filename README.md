@@ -15,7 +15,7 @@ Thank you for visiting this page, have a great day!
 
 <br/>
 
-[![All Links](https://img.shields.io/badge/All%20links-bento.me%2Fpirafrank-blue)](http://bento.me/pirafrank)
+[![All Links](https://img.shields.io/badge/All%20links-linktr.ee%2Fpirafrank-blue)](http://linktr.ee/pirafrank)
 [![Mastodon](https://img.shields.io/badge/Mastodon-pirafrank-blue)](http://mastodon.social/pirafrank)
 [![Bluesky](https://img.shields.io/badge/Bluesky-pirafrank-blue)](https://bsky.app/profile/pirafrank.bsky.social)
 [![PGP](https://img.shields.io/badge/PGP-0xDC805C4BD79EC530-blue)](http://fpira.com/pgp.txt)
