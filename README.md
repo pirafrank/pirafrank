@@ -4,9 +4,9 @@ Yet another guy who writes code. Currently working as XR Tech Lead @ Leonardo.
 
 My open-source work lives here on GitHub, packages get published on:
 
+- [crates.io](https://crates.io/users/pirafrank)
 - [Docker Hub](https://hub.docker.com/u/pirafrank)
 - [npm.js](https://www.npmjs.com/~pirafrank)
-- [crates.io](https://crates.io/users/pirafrank)
 - [rubygems.org](https://rubygems.org/profiles/pirafrank)
 
 For more info about me, or if you're curious about what I blog, you can head over to [my website](https://fpira.com).
