@@ -1,15 +1,22 @@
-### Hi, I'm Frank
+## Hi, I'm Frank
 
 Yet another guy who writes code. Currently working as XR Tech Lead @ Leonardo.
 
 My open-source work lives here on GitHub, packages get published on:
 
+- [Homebrew tap](https://github.com/pirafrank/homebrew-tap)
 - [crates.io](https://crates.io/users/pirafrank)
 - [Docker Hub](https://hub.docker.com/u/pirafrank)
 - [npm.js](https://www.npmjs.com/~pirafrank)
 - [rubygems.org](https://rubygems.org/profiles/pirafrank)
 
 For more info about me, or if you're curious about what I blog, you can head over to [my website](https://fpira.com).
+
+## Projects
+
+Have a look at my [Projects](https://fpira.com/projects) page.
+
+---
 
 Thank you for visiting this page, have a great day!
 
