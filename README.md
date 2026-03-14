@@ -5,6 +5,7 @@ Yet another guy who writes code. Currently working as XR Tech Lead @ Leonardo.
 My open-source work lives here on GitHub, packages get published on:
 
 - [Homebrew tap](https://github.com/pirafrank/homebrew-tap)
+- [APT/YUM/APK repository](https://pkg.fpira.com)
 - [AURA](https://github.com/pirafrank/aura)
 - [crates.io](https://crates.io/users/pirafrank)
 - [npm.js](https://www.npmjs.com/~pirafrank)
