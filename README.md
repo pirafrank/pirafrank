@@ -11,6 +11,7 @@ My open-source work lives here on GitHub, while packages get published on:
 - [npm.js](https://www.npmjs.com/~pirafrank)
 - [rubygems.org](https://rubygems.org/profiles/pirafrank)
 - [Docker Hub](https://hub.docker.com/u/pirafrank)
+- [Azure Marketplace](https://marketplace.visualstudio.com/publishers/pirafrank)
 
 To know more about me or to read what I blog, check [my website](https://fpira.com).
 
