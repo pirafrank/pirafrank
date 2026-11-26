@@ -29,7 +29,7 @@ Thank you for visiting this page, have a great day!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pirafrank-blue)](https://linkedin.com/in/pirafrank)
 [![Mastodon](https://img.shields.io/badge/Mastodon-pirafrank-blue)](http://mastodon.social/pirafrank)
 [![Bluesky](https://img.shields.io/badge/Bluesky-pirafrank-blue)](https://bsky.app/profile/pirafrank.bsky.social)
-[![PGP](https://img.shields.io/badge/PGP-0xDC805C4BD79EC530-blue)](http://fpira.com/pgp.txt)
+[![PGP](https://img.shields.io/badge/PGP-0xDC805C4BD79EC530-blue)](https://keybase.io/pirafrank)
 
 <!--
 ![GitHub stats card](https://github-readme-stats.vercel.app/api?username=pirafrank&show_icons=false&theme=chartreuse-dark&bg_color=22272E&title_color=539BF5)
