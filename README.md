@@ -1,6 +1,6 @@
 ## Hi, I'm Frank
 
-Yet another guy who writes code. Currently working as XR Tech Lead @ Leonardo.
+Yet another guy who writes code. Working as XR Tech Lead @ Leonardo by day, building with Rust and AI by night.
 
 My open-source work lives here on GitHub, while packages get published on:
 
@@ -13,11 +13,11 @@ My open-source work lives here on GitHub, while packages get published on:
 - [Docker Hub](https://hub.docker.com/u/pirafrank)
 - [Azure Marketplace](https://marketplace.visualstudio.com/publishers/pirafrank)
 
-To know more about me or to read what I blog, check [my website](https://fpira.com).
+If you want to know more, have a look at my [Projects](https://fpira.com/projects) page.
 
-## Projects
+## Blog
 
-Have a look at my [Projects](https://fpira.com/projects) page.
+I occasionally share updates on [social media](https://fpira.com/contacts) and write on my blog. Visit [my website](https://fpira.com) to check out my latest articles.
 
 ---
 
